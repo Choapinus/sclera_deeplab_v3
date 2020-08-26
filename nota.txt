@@ -1,0 +1,4 @@
+dataset_v1 contiene:
+- imagenes de pantalla
+- train y val set
+- no contiene test set
